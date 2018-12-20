@@ -1,2 +1,2 @@
 # Music-Player
-Music plaayer created using python language
+Music player created using python language
